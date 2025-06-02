@@ -1,0 +1,5 @@
+>>> import turtle
+>>> my_pen=turtle.Turtle()
+>>> my_pen.forward(50)
+>>> my_pen.right(90)
+>>> turtle.done()

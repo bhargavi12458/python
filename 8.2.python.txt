@@ -1,0 +1,4 @@
+>>> import datetime
+>>> current_datetime=datetime.datetime.now()
+>>> print("Current DteTime:",current_datetime)
+Current DteTime: 2025-05-28 12:29:40.863616

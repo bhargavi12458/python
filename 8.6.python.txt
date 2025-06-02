@@ -1,0 +1,5 @@
+>>> import string
+>>> text="hello,world"
+>>> uppercase_text=text.upper()
+>>> print("uppercasetext:",uppercase_text)
+uppercasetext: HELLO,WORLD
