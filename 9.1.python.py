@@ -1,0 +1,5 @@
+f=open("c:\\user\\MICLAB\\DESKTOP\\demo.txt","r")
+print("file object is opend")
+print(f)
+data=f.read()
+print(data)
