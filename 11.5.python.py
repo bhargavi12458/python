@@ -1,0 +1,10 @@
+d1={'sub1':80,'sub2':90,'sub3':70,'sub4':80}
+print(d1)
+s=sum(d1.values())
+print(s)
+mx=max(d1.values())
+print(mx)
+mn=min(d1.values())
+print(mn)
+cnt=len(d1.values())
+print(cnt)
